@@ -4,4 +4,4 @@ It even does so in real-time! It also saves the information on previous train se
 Happy travels!
 
 
-Plan your next trip here:
+Plan your next trip here:  https://jodubb.github.io/Fire-base-Train-Scheduler/
